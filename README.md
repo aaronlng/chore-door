@@ -1,2 +1,13 @@
-# chore-door
-Chore Door is the first project from Codecademy's Web Development Course Module 6: Building Interactive JavaScript Websites
+# Chore Door
+
+Your mission is to construct a single-page website that plays a fully-functional game. You will see how HTML, CSS, and JavaScript interact harmoniously to produce a dynamic website.
+
+> Project 1 in the Codecademy Web Development Course Module 6: Building Interactive JavaScript Websites
+
+## Author
+
+### Aaron Long
+
+- [GitHub Profile](https://github.com/aaronlng/)
+
+- Twitter: [@aaronlng](https://twitter.com/aaronlng)
